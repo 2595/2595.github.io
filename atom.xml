@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>404 NOT FOUDND</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-11-29T12:36:29.703Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="http://yoursite.com//blog/2018/11/29/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com//blog/2018/11/29/第一篇博客/</id>
+    <published>2018-11-29T11:57:11.000Z</published>
+    <updated>2018-11-29T12:36:29.703Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><h2 id="emmm…"><a href="#emmm…" class="headerlink" title="emmm…"></a>emmm…</h2><h2 id="无论如何，人生第一个博客算是搭建完成了，不管质量怎么样，只要能看也算是完成任务了，人生不要在意那些细节。。。"><a href="#无论如何，人生第一个博客算是搭建完成了，不管质量怎么样，只要能看也算是完成任务了，人生不要在意那些细节。。。" class="headerlink" title="无论如何，人生第一个博客算是搭建完成了，不管质量怎么样，只要能看也算是完成任务了，人生不要在意那些细节。。。"></a>无论如何，人生第一个博客算是搭建完成了，不管质量怎么样，只要能看也算是完成任务了，人生不要在意那些细节。。。</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;h2 id=&quot;emmm…&quot;&gt;&lt;a href=&quot;#emmm…&quot; class=&quot;headerlink&quot; title=&quot;emmm…&quot;&gt;&lt;/a&gt;emmm
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
